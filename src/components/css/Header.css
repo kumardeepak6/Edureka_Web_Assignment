@@ -1,0 +1,98 @@
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1f2633;
+    z-index: 1;
+    position : relative;
+    height: 40px;
+  }
+  
+  li {
+    float: left;
+    margin-left: 20px;
+    font-size: small;
+  }
+  
+  .menu-link{
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .menu-link:hover {
+    background-color: #f2f2f2;
+  }
+
+  .logo{
+    width: 150px;
+    height: 75px;
+    padding-left: 32px;
+    padding-top: 32px;
+    padding-right: 32px;
+  }
+
+  .userlogo{
+    width: 64px;
+    height: 64px;
+  }
+
+  .flex-container{
+    display: flex;
+    flex-direction: row;
+    background-color: #8b2c7f;
+    height: 50px;
+    
+  }
+  
+  .title{
+    padding-top: 10px;
+    font-size: 30px;
+    text-align: right;
+  }
+
+  .profile{
+    display: flex;
+    padding-left: 60%;
+    padding-top: 50px;
+    align-content: flex-end;
+    float: left;
+  }
+
+  .profile-text{
+    padding-left: 32px;
+    font-size: 34px;
+  }
+
+  .search-bar {
+    float: right; 
+	  padding: 16px;
+	  padding-left: 24px; 
+	  width: 25%; 
+    font-size: 20px;
+    text-decoration: none;
+  }
+  #ecubemovies{
+    margin-top: 10px;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  #login,#logout{
+    float: right;
+  }
+
+  #zee{
+    position: absolute;
+    z-index: 2;
+    background-color: white;
+    margin-left: 210px;
+    width: 25%; 
+    padding-left: 24px; 
+
+  }
+
+  
