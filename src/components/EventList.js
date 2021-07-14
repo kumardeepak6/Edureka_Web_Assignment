@@ -3,6 +3,7 @@ import EventItem from './EventItem'
 import {connect} from 'react-redux'
 import Loading from './Loading'
 import Header from './Header'
+// eslint-disable-next-line
 import { Card, Row, Col } from 'react-bootstrap'
 
 import { fetchEventsBegin } from "../Actions/EventActions"
