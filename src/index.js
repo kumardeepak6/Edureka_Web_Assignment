@@ -4,11 +4,18 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.css';
+import {BrowserRouter as Router} from 'react-router-dom'
+import store from './Store'
+import {Provider} from 'react-redux'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router>
+    <Provider store={store}>
+      <React.StrictMode>
+         <App/>
+    </React.StrictMode>
+  </Provider>
+  </Router>,
   document.getElementById('root')
 );
 serviceWorker.unregister();

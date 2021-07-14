@@ -49,8 +49,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://mediafiles.cineplex.com/Promos/GeneralMills/2020/gm-hero-desktop-en-v2.jpg`}
             style={{
                 height:"200px",
@@ -84,8 +82,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDXhTYRccrHR7gFPIhQ2W1l5P7lLa5pqW19Q&usqp=CAU`}
             style={{
                 height:"200px",
@@ -122,8 +118,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://mediafiles.cineplex.com/SliderImages/2017/08/1486_scenebanner_new_v2.jpg`}
             style={{
                 height:"200px",
@@ -158,8 +152,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://www.greedyrates.ca/wp-content/uploads/2017/08/See-the-Hottest-Summer-Blockbusters-for-FREE-with-the-Scotiabank-SCENE-Visa-Card.jpg`}
             style={{
                 height:"200px",
@@ -194,8 +186,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://media.comicbook.com/2018/11/aquaman-imax-tickets-1145105.jpeg`}
             style={{
                 height:"200px",
@@ -232,8 +222,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://www.landmarkcinemas.com/media/388236/movie10-pack-2017_850x350_header.jpg`}
             style={{
                 height:"200px",
@@ -268,8 +256,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://www.landmarkcinemas.com/media/403621/bettertogether-520x300-thumbnail-nodate.jpg`}
             style={{
                 height:"200px",
@@ -342,8 +328,6 @@ export const AvailOffers = () => (
         }}>
         <Card.Img
             variant="top"
-            //src={`https://image.tmdb.org/t/p/w500/${movie.poster_path}`}
-           // src = {`https://in.bmscdn.com/offers/tncbanner/icici-bank-25percent-discount-offer-icicicc520.jpg?30062020105640`}
             src = {`https://canadify.com/wp-content/uploads/2017/02/Pizza-Pizza-Offers-2-for-1-Cineplex-Movie-Admission-Promotion-678x381.jpg`}
             style={{
                 height:"200px",

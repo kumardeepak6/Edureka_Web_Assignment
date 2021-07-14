@@ -131,6 +131,9 @@ export default class Header extends React.Component {
             <Link to="/LiveEvents">Live Events</Link>
           </li>
           <li class="menu-link">
+            <Link to="/events">Events Redux</Link>
+          </li>
+          <li class="menu-link">
             <Link to="/offers">Offers</Link>
           </li>
 

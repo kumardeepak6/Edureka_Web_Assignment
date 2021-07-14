@@ -1,0 +1,490 @@
+{
+"events": [
+        {
+            "relevance": 0,
+            "id": "VdtLoy6BoVS7DDAga7",
+            "title": "Montgomery Biscuits vs Pensacola Blue Wahoos",
+            "description": "Montgomery Biscuits vs Pensacola Blue Wahoos",
+            "category": "sports",
+            "labels": [
+                "baseball",
+                "minor-league",
+                "sport"
+            ],
+            "rank": 59,
+            "local_rank": 88,
+            "aviation_rank": 0,
+            "phq_attendance": 2824,
+            "entities": [
+                {
+                    "formatted_address": "Lauderhill, Florida\nUnited States of America",
+                    "name": "Admiral Fetterman Field",
+                    "type": "venue",
+                    "entity_id": "GFSELyc2dTNsk8GWaRJ3kL"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:35:00Z",
+            "end": "2021-08-11T23:35:00Z",
+            "predicted_end": "2021-08-12T02:25:00Z",
+            "updated": "2021-07-13T12:22:02Z",
+            "first_seen": "2021-05-07T18:13:55Z",
+            "timezone": "America/Chicago",
+            "location": [
+                -87.219662,
+                30.404295
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4155751",
+                    "4154550",
+                    "4171973"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4155751",
+                    "4154550",
+                    "4168228"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "c6dRyCttADyyai6NFF",
+            "title": "Biloxi Shuckers vs Mississippi Braves",
+            "description": "Biloxi Shuckers vs Mississippi Braves",
+            "category": "sports",
+            "labels": [
+                "baseball",
+                "minor-league",
+                "sport"
+            ],
+            "rank": 59,
+            "local_rank": 88,
+            "aviation_rank": 0,
+            "phq_attendance": 2784,
+            "entities": [
+                {
+                    "formatted_address": "Pearl, MS 39208\nUnited States of America",
+                    "name": "Trustmark Park",
+                    "type": "venue",
+                    "entity_id": "TZ5pfBK72n22GEmReiJWxj"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:35:00Z",
+            "end": "2021-08-11T23:35:00Z",
+            "predicted_end": "2021-08-12T02:25:00Z",
+            "updated": "2021-07-13T20:33:56Z",
+            "first_seen": "2021-04-06T00:22:19Z",
+            "timezone": "America/Chicago",
+            "location": [
+                -90.147744,
+                32.273101
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4436296",
+                    "4442841",
+                    "4440559"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4436296",
+                    "4429877",
+                    "4431410"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "uxvkVg4UuSCQRs8zdQ",
+            "title": "Lincoln Saltdogs at Milwaukee Milkmen",
+            "description": "Lincoln Saltdogs at Milwaukee Milkmen",
+            "category": "sports",
+            "labels": [
+                "sport"
+            ],
+            "rank": 60,
+            "local_rank": 75,
+            "aviation_rank": null,
+            "phq_attendance": 3200,
+            "entities": [
+                {
+                    "formatted_address": "2311 North Prospect Avenue\nMilwaukee, WI 53211\nUnited States of America",
+                    "name": "Routine Field",
+                    "type": "venue",
+                    "entity_id": "3xkaqsZRVUhmKpGZZ6fHNz"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:35:00Z",
+            "end": "2021-08-11T23:35:00Z",
+            "updated": "2021-06-16T18:32:41Z",
+            "first_seen": "2021-06-16T18:12:58Z",
+            "timezone": "America/Chicago",
+            "location": [
+                -87.8837,
+                43.0608
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "5279468",
+                    "5263058",
+                    "5263045"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "42Q8c88DCCz3RzLhrR",
+            "title": "Island Futures: What lies ahead for Zenadth Kes?",
+            "description": "Island Futures: What lies ahead for Zenadth Kes?",
+            "category": "expos",
+            "labels": [
+                "expo"
+            ],
+            "rank": 45,
+            "local_rank": 61,
+            "aviation_rank": null,
+            "phq_attendance": 562,
+            "entities": [
+                {
+                    "entity_id": "dHACFtZDJsSqN6DJK6Atcr",
+                    "name": "Island Futures: What lies ahead for Zenadth Kes?",
+                    "type": "event-group",
+                    "category": "expos",
+                    "labels": [
+                        "event-group",
+                        "expo",
+                        "recurring"
+                    ]
+                }
+            ],
+            "duration": 23400,
+            "start": "2021-08-11T23:30:00Z",
+            "end": "2021-08-12T06:00:00Z",
+            "updated": "2021-07-01T06:48:36Z",
+            "first_seen": "2021-07-01T06:35:32Z",
+            "timezone": "Australia/Brisbane",
+            "location": [
+                153.018682,
+                -27.47416
+            ],
+            "scope": "locality",
+            "country": "AU",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255151",
+                    "2077456",
+                    "2152274",
+                    "7839562",
+                    "2174003"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "4rZLsCstTh4moGf8Ew",
+            "title": "Tusk - The Ultimate Fleetwood Mac Tribute",
+            "description": "Tusk - The Ultimate Fleetwood Mac Tribute",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 0,
+            "local_rank": 0,
+            "aviation_rank": null,
+            "phq_attendance": null,
+            "entities": [
+                {
+                    "formatted_address": "2000 Lowther Drive\nEatontown, NJ 07724\nUnited States of America",
+                    "name": "Concerts on the Green at Suneagles Golf Club",
+                    "type": "venue",
+                    "entity_id": "836YsctWmUHjXX4gyW4KH2"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:30:00Z",
+            "end": "2021-08-11T23:30:00Z",
+            "updated": "2021-05-24T14:29:50Z",
+            "first_seen": "2021-04-07T00:18:23Z",
+            "timezone": "America/New_York",
+            "location": [
+                -74.073307,
+                40.301612
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "5101760",
+                    "5101305",
+                    "5106310"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "5101760",
+                    "5101305",
+                    "5098278"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "5D8B5BsBrMBZekQEDe",
+            "title": "Jackie Venson",
+            "description": "Jackie Venson",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 28,
+            "local_rank": 55,
+            "aviation_rank": 0,
+            "phq_attendance": 80,
+            "entities": [
+                {
+                    "formatted_address": "Lake Orion, MI\nUnited States",
+                    "name": "20 Front St",
+                    "type": "venue",
+                    "entity_id": "gVHLf93neT4BkXTCK3ey6s"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:30:00Z",
+            "end": "2021-08-11T23:30:00Z",
+            "updated": "2021-06-29T14:09:55Z",
+            "first_seen": "2021-05-17T19:42:12Z",
+            "timezone": "America/Detroit",
+            "location": [
+                -83.239284,
+                42.783696
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "5001836",
+                    "5004223",
+                    "4998587"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "5001836",
+                    "5004223",
+                    "5006166"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "6XStkMKjJAWXVivXfh",
+            "title": "The Pietasters",
+            "description": "The Pietasters",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 0,
+            "local_rank": 0,
+            "aviation_rank": null,
+            "phq_attendance": null,
+            "entities": [
+                {
+                    "formatted_address": "5024 Curry Road\nPittsburgh, PA 15236\nUnited States of America",
+                    "name": "The Crafthouse Stage & Grill",
+                    "type": "venue",
+                    "entity_id": "qcf8z4vPR2X2xtWniPaSGU"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:30:00Z",
+            "end": "2021-08-11T23:30:00Z",
+            "updated": "2021-05-24T23:30:05Z",
+            "first_seen": "2021-05-24T23:29:44Z",
+            "timezone": "America/New_York",
+            "location": [
+                -79.996544,
+                40.350054
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "6254927",
+                    "5178040",
+                    "5210691"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "6254927",
+                    "5178040",
+                    "5206379"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "7aXgVgZVf3Rvb9RfTW",
+            "title": "Live at Timucua: Baishui (in-person)",
+            "description": "Live at Timucua: Baishui (in-person)",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 0,
+            "local_rank": 0,
+            "aviation_rank": null,
+            "phq_attendance": null,
+            "entities": [
+                {
+                    "formatted_address": "2000 South Summerlin\nOrlando, FL 32806\nUnited States of America",
+                    "name": "Timucua Arts Foundation",
+                    "type": "venue",
+                    "entity_id": "335446NSPNksXGQBpPF96RP"
+                }
+            ],
+            "duration": 3600,
+            "start": "2021-08-11T23:30:00Z",
+            "end": "2021-08-12T00:30:00Z",
+            "updated": "2021-07-11T08:45:25Z",
+            "first_seen": "2021-05-21T01:57:22Z",
+            "timezone": "America/New_York",
+            "location": [
+                -81.368268,
+                28.519398
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4155751",
+                    "4167060",
+                    "7192463"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4155751",
+                    "4167060",
+                    "4167147"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        },
+        {
+            "relevance": 0,
+            "id": "7kGEsY9YLUvzfWtcDG",
+            "title": "Maks & Val: Stripped Down Tour",
+            "description": "Maks & Val: Stripped Down Tour",
+            "category": "performing-arts",
+            "labels": [
+                "entertainment",
+                "performing-arts"
+            ],
+            "rank": 49,
+            "local_rank": 59,
+            "aviation_rank": 0,
+            "phq_attendance": 890,
+            "entities": [
+                {
+                    "formatted_address": "513 13th Street Northwest\nWashington, DC 20004\nUnited States of America",
+                    "name": "Warner Theatre",
+                    "type": "venue",
+                    "entity_id": "uLFZSRJJ28acMeKDjyZCjx"
+                }
+            ],
+            "duration": 0,
+            "start": "2021-08-11T23:30:00Z",
+            "end": "2021-08-11T23:30:00Z",
+            "updated": "2021-06-12T20:32:53Z",
+            "first_seen": "2021-06-12T20:11:29Z",
+            "timezone": "America/New_York",
+            "location": [
+                -77.029514,
+                38.896493
+            ],
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "4138106",
+                    "4140963"
+                ]
+            ],
+            "state": "active",
+            "brand_safe": true,
+            "private": false
+        }
+	]
+}
